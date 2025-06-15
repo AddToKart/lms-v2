@@ -69,3 +69,35 @@ Auth
 Role-based (Admin, Client)
 
 JWT auth with route guards
+
+
+Backend Utilities
+
+@nestjs/config for env
+
+mysql2 for stored procedure calls
+
+@nestjs/swagger for API docs
+
+@nestjs/schedule for cron jobs
+
+winston or pino for logging
+
+📦 Frontend Utilities
+
+TanStack Query with fetch or Ky
+
+react-hook-form for form logic
+
+zod for schema validation
+
+lucide-react for icons
+
+tailwind-variants for Shadcn theming
+
+
+Validation & Error Handling
+
+Backend: DTOs with class-validator, exception filters
+
+Frontend: Zod + TanStack isError, isLoading handling
